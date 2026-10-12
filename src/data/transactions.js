@@ -3,6 +3,8 @@
 //  6-month window: Nov 2025 → Apr 2026  |  50 transactions
 // ─────────────────────────────────────────────────────────────────
 
+
+
 export const CATEGORY_COLORS = {
   'Food & Dining': '#f97316',
   Shopping:        '#8b5cf6',
