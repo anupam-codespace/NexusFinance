@@ -1,6 +1,3 @@
-
-
-
 export const CATEGORY_COLORS = {
   'Food & Dining': '#f97316',
   Shopping:        '#8b5cf6',
