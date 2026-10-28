@@ -1,4 +1,4 @@
-# NexusFi — Smart Finance Dashboard
+# NexusFi Smart Finance Dashboard
 
 ---
 
